@@ -1,6 +1,6 @@
 # WebQuizEngine
 
-This project I've developed a multi-user web service for creating and solving quizzes using REST API, embedded database, security and other technologies. Here I have concentrated on the server side ("engine") with no user interface at all. For testing you can use Postman, browser etc.    
+In this project I've developed a multi-user web service for creating and solving quizzes using REST API, embedded database, security and other technologies. Here I have concentrated on the server side ("engine") with no user interface at all. For testing you can use Postman, browser etc.    
 Details of the stages of the project can be found [here](https://hyperskill.org/projects/91).    
 You can find main method in `WebQuizEngine.java` and REST-controller in `QuizRController.java`. Other classes have self-explanatory names.    
 
